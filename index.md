@@ -34,4 +34,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
-![Ancient Rescue Beagle](Timberlake.jpeg)
