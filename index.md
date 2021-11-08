@@ -1,13 +1,32 @@
 # Climate 680 Final Project
 
+## Exploring Tropical Relationships Between Sea Surface Height and El Nino from 1993-2015
 ## Geoffrey Rath
 
 ## Introduction
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
 
 ## Data
+The data utilized in the following analysis is taken from the AVISO altimetry data from 1993-2015 from 15N-15S. AVISO is satellite derived sea surface height relative to the mean ocean surface of the Earth. AVISO's dataset was created by binning and averaging monthly values. AVISO stands for "Archiving, Validation, and Interpolation of Satellite Oceanographic data" 
+Resolution: 1 degree grids
 
-[This is a link](website here)
+[AVISO Altimetry Data](https://kpegion.github.io/COLA-DATASETS-CATALOG/aviso)
 
+## Data Analysis
+### General Characteristics
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
 
-Addition
+### Composite Analysis
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
+
+### Correlation Coefficient
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
+
+### Regression
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
+
+### Conda Environment
+An environment.yml file can be found to define a consistent environment for the execution of the above code.
+
+## Summary
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
