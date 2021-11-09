@@ -11,6 +11,8 @@ The data utilized in the following analysis is taken from the AVISO altimetry da
 
 Resolution: 1 degree grids
 
+Track down data Acknowledgement for AVISO
+
 [AVISO Altimetry Data](https://kpegion.github.io/COLA-DATASETS-CATALOG/aviso)
 
 ## Data Analysis
@@ -35,4 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
 ![Ancient Beagle](/Climate-680/Timberlake.jpeg)
+
+<img src="/Climate-680/Timberlake.jpeg" width=50% height=50%>
+
 Always willing to lend a paw, forcefully, and without warning straight onto the keyboard.
