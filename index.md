@@ -34,5 +34,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
-![Ancient Beagle](/GeoRath/Climate-680/Timberlake.jpeg)
+![Ancient Beagle](/Climate-680/Timberlake.jpeg)
 Always willing to lend a paw, forcefully, and without warning straight onto the keyboard.
