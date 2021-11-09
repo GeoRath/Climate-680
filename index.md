@@ -38,6 +38,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Timberlake - Executive Coding Assistant
 ![Ancient Beagle](/Climate-680/Timberlake.jpeg)
 
+
 <img src="/Climate-680/Timberlake.jpeg" width=50% height=50%>
 
+
 Always willing to lend a paw, forcefully, and without warning straight onto the keyboard.
+
+
+
+
+
