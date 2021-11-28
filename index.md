@@ -23,24 +23,24 @@ Track down data Acknowledgement for AVISO
 ### General Characteristics
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
 
-[Climatology Workbook]()
+[Climatology Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/12_month_climatology.ipynb)
 
-[Aviso Contour Data Workbook]()
+[Aviso Contour Data Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/aviso_contour.ipynb)
 
 ### Composite Analysis
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
 
-[Composite Analysis Workbook]()
+[Composite Analysis Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/composite_analysis.ipynb)
 
 ### Correlation Coefficient
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
 
-[Correlation Workbook]()
+[Correlation Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/aviso_nino34_correlation.ipynb)
 
 ### Regression
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
 
-[Regression Workbook]()
+[Regression Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/aviso_nino34_regression.ipynb)
 
 ### Conda Environment
 An environment.yml file can be found to define a consistent environment for the execution of the above code.
