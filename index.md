@@ -1,7 +1,7 @@
 # Climate 680 Final Project
 
-## Exploring Tropical Relationships Between Sea Surface Height and ENSO from 1993-2015
-## Geoffrey Rath
+## __Exploring Tropical Relationships Between Sea Surface Height and ENSO from 1993-2015__
+## _Geoffrey Rath_
 
 ## Introduction
 The primary focus of my project is on sea surface height in the tropics between 15N-15S. The tropics are a major location of upwelling of colder water from the deep ocean and the impacts that anthropogenic warming can have as tropically classified waters expand. Sea surface height research is well documented but zooming in on the tropics and utilizing satellite data allows for clearer visualization of oceanic behavior.
