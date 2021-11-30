@@ -6,6 +6,8 @@
 ## Introduction
 The primary focus of my project is on sea surface height in the tropics between 15N-15S, as the tropics are a major location of upwelling of colder water from the deep ocean. Study of the tropical ocean may become even more critical as the impacts that anthropogenic warming may increase the area of the ocean classified as tropical waters. Sea surface height research is well documented but zooming in on the tropics and utilizing satellite data allows for clearer visualization of oceanic behavior and relationships.
 
+Sea surface height is an important indicator of anthropogenic climate change and is a crucial element in flood mitigation, especially with around 80 percent of the global population living within 60 miles of the ocean. Rising ocean levels can and do cause billions of dollars in damage as well as posing a significant threat to human life as extreme flooding increases due to climate change.
+
 An El Nino Southern Oscillation (ENSO) index will be used for comparison and to explore how sea surface height behaves during El Nino, La Nina, and Neutral conditions.
 
 Associated Jupyter Notebooks are linked at the end of their corresponding section.
@@ -35,11 +37,11 @@ Resoltion: 1/4 degree global grid
 
 ![12 Month Climatology](/Climate-680/Figures/12_month_clim.png)
 
-Pictured above is the 12 month climatology for the monthly mean Sea Level Anomolies. As can be seen sea surface height anomalies vary widely across all 12 months. This mean average is run across the full span of the data from 1993-2015. This climatology illustrates sea surface height behaviors from month to month.
+Pictured above is the 12 month climatology for the monthly mean Sea Level Anomolies. As can be seen sea surface height anomalies vary widely across all 12 months. This mean average is run across the full span of the data from 1993-2015. This climatology illustrates sea surface height behaviors from month to month. From this climatology it is difficult to see what the overall mean behavior of the sea surface is but we can look at a plot of mean change in sea level anomalies to get a clearer image.
 
 ![AVISO Contour Plot](/Climate-680/Figures/aviso_contour.png)
 
-This contour plot shows the mean change of sea level anomalies from 1993-2015. In it we can clearly see that the anomalous behavior of sea surface height shows a widespread increase in sea surface height across the measured domain.
+This contour plot shows the mean change of sea level anomalies from 1993-2015. In it we can clearly see that the anomalous behavior of sea surface height shows a widespread increase in sea surface height across the measured domain. For reference the bulk of the domain saw an increase of 4.25mm or an increase in height of about two stacked US nickels.
 
 [Climatology Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/12_month_climatology.ipynb)
 
@@ -69,11 +71,19 @@ In the above regression map we can see similar color gradients as the correlatio
 
 [Regression Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/aviso_nino34_regression.ipynb)
 
-### Conda Environment
-An environment.yml file can be found to define a consistent environment for the execution of the above code.
+### Conda Environment and Resources
+An environment.yml file can be found to define a consistent environment for the execution of the above code. All Jupyter Notebooks can be found in the Project Workbooks folder and created figures and graphs may be found in the Figures folder.
+
+[Project Workbooks](https://github.com/GeoRath/Climate-680/tree/master/Project_Workbooks)
+
+[Figures](https://github.com/GeoRath/Climate-680/tree/master/Figures)
+
+[Environment](https://github.com/GeoRath/Climate-680/blob/master/environment.yml)
 
 ## Summary
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
+Although my topic question was simple and already has a wealth of research behind it I still feel as though I have learned a lot from this project. I have learned a lot about coding in python and how to best utilze python to help me understand what my data is showing me. My data analysis also helped me visualize oceanic behaviors more clearly and helped me build a better understanding of how different variables in the ocean impact each other as well as how much is missing from painting the full picture of the ocean's behavior.
+
+Technically, I had to work through nan data creating issues in my data analysis as well as finding workarounds for computing around a large dataset like AVISO. I also furthered my competency with python but also found how to better address my own errors and problems with research and guides from different corners of the internet. In the future I would like to further explore other variables that impact sea surface height and work on making my plots more interesting to look at and find ways for them to provide even more context to the full story they can tell.
 
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
