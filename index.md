@@ -22,7 +22,7 @@ The reference mission used for the altimeter inter-calibration processing is Top
 
 Those products were processed by SSALTO/DUACS and distributed by [AVISO+](https://www.aviso.altimetry.fr) with support from CNES.
 
-Resolution: 1 degree grids
+Resolution: 1° grids
 
 ### ENSO Index
 
@@ -30,7 +30,7 @@ The NOAA 1/4° Daily Optimum Interpolation Sea Surface Temperature (OISST) is a 
 
 NOAA High Resolution SST data provided by the NOAA/OAR/ESRL PSL, Boulder, Colorado, USA, from their Web site at [NOAA PSL](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html#detail)
 
-Resoltion: 1/4 degree global grid
+Resolution: 1/4° global grid
 
 ## Data Analysis
 ### General Characteristics
