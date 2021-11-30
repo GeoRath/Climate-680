@@ -65,7 +65,7 @@ As expected the correlation between ENSO and AVISO is strong. There is a strong 
 
 ![Nino 3.4 and AVISO Regression Map](/Climate-680/Figures/nino34_aviso_regression.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc congue nisi vitae suscipit. Sollicitudin ac orci phasellus egestas. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Et magnis dis parturient montes nascetur ridiculus mus mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse. Sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci dapibus ultrices in iaculis nunc sed augue. Dolor magna eget est lorem. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Auctor elit sed vulputate mi sit. Pulvinar pellentesque habitant morbi tristique senectus et netus. Pellentesque habitant morbi tristique senectus et. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Elit eget gravida cum sociis natoque penatibus et magnis dis. Facilisi nullam vehicula ipsum a arcu cursus.
+In the above regression map we can see similar color gradients as the correlation graph but with no significance. This shows that the relationship between sea surface temperature and sea level anomalies is more complicated than a simple linear regression and that there are other variables that contribute to both of their behaviors, wind speed, cloud cover, and upwelling to name a few.
 
 [Regression Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/aviso_nino34_regression.ipynb)
 
