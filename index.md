@@ -93,7 +93,5 @@ Technically, I had to work through nan data creating issues in my data analysis 
 
 Always willing to lend a paw, forcefully, and without warning straight onto the keyboard.
 
-
-
-
+I would also like to thank both Dr. Paul Dirmeyer and Dr. Natalie Burls for their knowledge, insight, and assistance throughout this project.
 
