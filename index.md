@@ -43,7 +43,11 @@ Pictured above is the 12 month climatology for the monthly mean Sea Level Anomol
 
 This contour plot shows the mean change of sea level anomalies from 1993-2015. In it we can clearly see that the anomalous behavior of sea surface height shows a widespread increase in sea surface height across the measured domain. For reference the bulk of the domain saw an increase of 4.25mm or an increase in height of about two stacked US nickels.
 
-Upon further review the mean change of sea level anomalies should be zero since this is calculated over the entire time duration. What is actually shown in this contour plot is a global warming signal. To observe the actual change we will need to look at a regression of sea level anomalies over time. (PENDING)
+Upon further review the mean change of sea level anomalies should be zero since this is calculated over the entire time duration. What is actually shown in this contour plot is a global warming signal. To observe the actual change we will need to look at a regression of sea level anomalies over time. 
+
+![AVISO Mean Decadal Difference](/Climate-680/Figures/aviso_decade_diff.png)
+
+This plot shows the difference in sea level anomalies from the first decade, 1993-2003, and the last decade, 2005-2015. In this graph we can see that sea level anomalies are predominantly increasing in sea surface height except for in the eastern Pacific. This could be impacted from ENSO as well as upwelling of cooler water.
 
 [Climatology Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/12_month_climatology.ipynb)
 
