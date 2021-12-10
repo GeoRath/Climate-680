@@ -91,17 +91,17 @@ Technically, I had to work through NaN data creating issues in my data analysis 
 
 ## References and Relevant Articles
 
-Bamber J, et al. (2018). The land ice contribution to sea level during the satellite era. Environmental Research Letters : ERL., 13(6). (https://doi.org/10.1088/1748-9326/aac2f0)
+Bamber J, et al. (2018). The land ice contribution to sea level during the satellite era. Environmental Research Letters : ERL., 13(6). [https://doi.org/10.1088/1748-9326/aac2f0](https://doi.org/10.1088/1748-9326/aac2f0)
 
-Cazenave A, Henry O, Munier S, et al. Estimating ENSO Influence on the Global Mean Sea Level, 1993-2010. Marine Geodesy. 2012;35:82-97. (doi:10.1080/01490419.2012.718209)
+Cazenave A, Henry O, Munier S, et al. Estimating ENSO Influence on the Global Mean Sea Level, 1993-2010. Marine Geodesy. 2012;35:82-97. [doi:10.1080/01490419.2012.718209](doi:10.1080/01490419.2012.718209)
 
-Hamlington, B. D., Cheon, S. H., Thompson, P. R., Merrifield, M. A., Nerem, R. S., Leben, R. R., and Kim, K.-Y. (2016), An ongoing shift in Pacific Ocean sea level, J. Geophys. Res. Oceans, 121, 5084– 5097, (doi:10.1002/2016JC011815).
+Hamlington, B. D., Cheon, S. H., Thompson, P. R., Merrifield, M. A., Nerem, R. S., Leben, R. R., and Kim, K.-Y. (2016), An ongoing shift in Pacific Ocean sea level, J. Geophys. Res. Oceans, 121, 5084– 5097, [doi:10.1002/2016JC011815](doi:10.1002/2016JC011815).
 
-Hamlington, B. D., Frederikse, T., Thompson, P. R., Willis, J. K., Nerem, R. S., & Fasullo, J. T. (2021). Past, present, and future Pacific sea-level change. Earth's Future, 8, e2020EF001839. (https://doi.org/10.1029/2020EF001839)
+Hamlington, B. D., Frederikse, T., Thompson, P. R., Willis, J. K., Nerem, R. S., & Fasullo, J. T. (2021). Past, present, and future Pacific sea-level change. Earth's Future, 8, e2020EF001839. [https://doi.org/10.1029/2020EF001839](https://doi.org/10.1029/2020EF001839)
 
-Merrifield, M. A., and Maltrud, M. E. (2011), Regional sea level trends due to a Pacific trade wind intensification, Geophys. Res. Lett., 38, L21605, (doi:10.1029/2011GL049576).
+Merrifield, M. A., and Maltrud, M. E. (2011), Regional sea level trends due to a Pacific trade wind intensification, Geophys. Res. Lett., 38, L21605, [doi:10.1029/2011GL049576](doi:10.1029/2011GL049576).
 
-WCRP Global Sea Level Budget Group: Global sea-level budget 1993–present, Earth Syst. Sci. Data, 10, 1551–1590, (https://doi.org/10.5194/essd-10-1551-2018), 2018.
+WCRP Global Sea Level Budget Group: Global sea-level budget 1993–present, Earth Syst. Sci. Data, 10, 1551–1590, [https://doi.org/10.5194/essd-10-1551-2018](https://doi.org/10.5194/essd-10-1551-2018), 2018.
 
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
