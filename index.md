@@ -4,9 +4,9 @@
 ## _Geoffrey Rath_
 
 ## Introduction
-The primary focus of my project is on sea surface height in the tropics between 15N-15S, as the tropics are a major location of upwelling of colder water from the deep ocean. Study of the tropical ocean may become even more critical as the impacts that anthropogenic warming may increase the area of the ocean classified as tropical waters. Sea surface height research is well documented but zooming in on the tropics and utilizing satellite data allows for clearer visualization of oceanic behavior and relationships.
+The primary focus of my project is on sea surface height in the tropics between 15N-15S, as the tropics are a major location of upwelling of colder water from the deep ocean. Study of the tropical ocean may become even more critical as the impacts that anthropogenic warming may increase the area of the ocean classified as tropical waters. Sea surface height research is well documented but zooming in on the tropics and utilizing satellite data allows for clearer visualization of oceanic behavior and relationships. Relevant articles and citations to sea surface height will be included in the _References and Relevant Articles_ section below. Sea surface height varies globally and has far reaching impacts across the globe, these variations can be caused by wind stress, temperature fluctuations, as well as upwelling from the deep ocean.
 
-Sea surface height is an important indicator of anthropogenic climate change and is a crucial element in flood mitigation, especially with around 80 percent of the global population living within 60 miles of the ocean. Rising ocean levels can and do cause billions of dollars in damage as well as posing a significant threat to human life as extreme flooding increases due to climate change.
+Sea surface height is an important indicator of anthropogenic climate change and is a crucial element in flood mitigation, especially with around 80 percent of the global population living within 60 miles of the ocean. Sea level rise is being impcated both from an increase in sea surface temperature, SST, and melting sea ice. Warmer ocean waters cause water the ocean to expand and sea levels to rise, in addition global warming is melting sea ice as well as impacting ice formation on the poles which has added volume to the ocean and raised sea levels (Bamber; Hamlington et al 2016; WCRP) Rising ocean levels can and do cause billions of dollars in damage as well as posing a significant threat to human life as extreme flooding increases due to climate change.
 
 An El Nino Southern Oscillation (ENSO) index will be used for comparison and to explore how sea surface height behaves during El Nino, La Nina, and Neutral conditions.
 
@@ -39,15 +39,9 @@ Resolution: 1/4° global grid
 
 Pictured above is the 12 month climatology for the monthly mean Sea Level Anomolies. As can be seen sea surface height anomalies vary widely across all 12 months. This mean average is run across the full span of the data from 1993-2015. This climatology illustrates sea surface height behaviors from month to month. From this climatology it is difficult to see what the overall mean behavior of the sea surface is but we can look at a plot of mean change in sea level anomalies to get a clearer image.
 
-![AVISO Contour Plot](/Climate-680/Figures/aviso_contour.png)
-
-This contour plot shows the mean change of sea level anomalies from 1993-2015. In it we can clearly see that the anomalous behavior of sea surface height shows a widespread increase in sea surface height across the measured domain. For reference the bulk of the domain saw an increase of 4.25mm or an increase in height of about two stacked US nickels.
-
-Upon further review the mean change of sea level anomalies should be zero since this is calculated over the entire time duration. What is actually shown in this contour plot is a global warming signal. To observe the actual change we will need to look at a regression of sea level anomalies over time. 
-
 ![AVISO Mean Decadal Difference](/Climate-680/Figures/aviso_decade_diff.png)
 
-This plot shows the difference in sea level anomalies from the first decade, 1993-2003, and the last decade, 2005-2015. In this graph we can see that sea level anomalies are predominantly increasing in sea surface height except for in the eastern Pacific. This could be impacted from ENSO as well as upwelling of cooler water.
+This plot shows the difference in sea level anomalies from the first decade, 1993-2003, and the last decade, 2005-2015. In this graph we can see that sea level anomalies are predominantly increasing in sea surface height except for in the eastern Pacific. This could be impacted from ENSO as well as upwelling of cooler water. Merrifield and Maltrud also discuss in their paper that this may also be impacted by multidecadal increases in the Pacific trade winds. This increase in trade winds is a seperate trend than that of La Nina events, but increases in trade winds have also been linked to global warming in multiple simulation models (Merrifield, M. A., and Maltrud, M. E.)
 
 [Climatology Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/12_month_climatology.ipynb)
 
@@ -57,7 +51,11 @@ This plot shows the difference in sea level anomalies from the first decade, 199
 
 ![Nino 3.4 and AVISO Composite](/Climate-680/Figures/nino34_aviso_composite.png)
 
-The specific question addressed in this composite analysis is what sea surface level anomalies are present during El Nino, La Nina, and Neutral conditions. The amount of events in the time band is denoted next to each graphs title. As can be seen in the El Nino subplot the anomalies present correspond well with known ENSO behavior. The La Nina subplot also shows similar maximum magnitudes to the El Nino graphic but in opposite regions, lower sea level in the Eastern Pacific and higher sea levels in the Western Pacific. The Neutral condition subplot shows that during neutral conditions there is very little anomolous sea level behavior.
+The specific question addressed in this composite analysis is what sea surface level anomalies are present during El Nino, La Nina, and Neutral conditions. The amount of events in the time band is denoted next to each graphs title, the composite graph contains data from all 12 months. 
+
+During El Nino events the trade winds weaken and we will see warmer waters gathering in the eastern Pacific on the west coast of the United States. This also has a dampening effect on upwelling from the deep ocean and is often associated with wet conditions and rain in the southern United States. Contrarily, during La Nina the trade winds increase and push warm water towards Asia and bring an increase in upwelling of cool water from the deep ocean. These parameters often lead to droughts and drier conditions in the southern United States.
+
+As can be seen in the El Nino subplot the anomalies present correspond well with known ENSO behavior. The La Nina subplot also shows similar maximum magnitudes to the El Nino graphic but in opposite regions, lower sea level in the Eastern Pacific and higher sea levels in the Western Pacific. The Neutral condition subplot shows that during neutral conditions there is very little anomolous sea level behavior.
 
 [Composite Analysis Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/composite_analysis.ipynb)
 
@@ -65,7 +63,7 @@ The specific question addressed in this composite analysis is what sea surface l
 
 ![Nino 3.4 and AVISO Correlation](/Climate-680/Figures/nino34_aviso_correlation.png)
 
-As expected the correlation between ENSO and AVISO is strong. There is a strong positive correlation in the Eastern Pacific which agrees with our composite data showing anomolous sea levels under ENSO conditions. We also see that there is a negative correlation outside of the ocean directly impacted by ENSO behavior. The only region that does not show significance is the portion of the Atlantic Ocean captured in the region which agrees with previous research on ENSO conditions and behaviors.
+As expected the correlation between ENSO and AVISO is strong. There is a strong positive correlation in the Eastern Pacific which agrees with our composite data showing anomolous sea levels under ENSO conditions. We also see that there is a negative correlation outside of the ocean directly impacted by ENSO behavior. The only region that does not show significance is the portion of the Atlantic Ocean captured in the region which agrees with previous research on ENSO conditions and behaviors (Cazenave; Hamlington et al 2021; WCRP).
 
 [Correlation Workbook](https://github.com/GeoRath/Climate-680/blob/master/Project_Workbooks/aviso_nino34_correlation.ipynb)
 
@@ -89,11 +87,21 @@ An environment.yml file can be found to define a consistent environment for the 
 ## Summary
 Although my topic question was simple and already has a wealth of research behind it I still feel as though I have learned a lot from this project. I have learned a lot about coding in python and how to best utilze python to help me understand what my data is showing me. My data analysis also helped me visualize oceanic behaviors more clearly and helped me build a better understanding of how different variables in the ocean impact each other as well as how much is missing from painting the full picture of the ocean's behavior.
 
-Technically, I had to work through nan data creating issues in my data analysis as well as finding workarounds for computing around a large dataset like AVISO. I also furthered my competency with python but also found how to better address my own errors and problems with research and guides from different corners of the internet. In the future I would like to further explore other variables that impact sea surface height and work on making my plots more interesting to look at and find ways for them to provide even more context to the full story they can tell.
+Technically, I had to work through NaN data creating issues in my data analysis as well as finding workarounds for computing around a large dataset like AVISO. I also furthered my competency with python but also found how to better address my own errors and problems with research and guides from different corners of the internet. In the future I would like to further explore other variables that impact sea surface height and work on making my plots more interesting to look at and find ways for them to provide even more context to the full story they can tell.
 
 ## References and Relevant Articles
 
+Bamber J, et al. (2018). The land ice contribution to sea level during the satellite era. Environmental Research Letters : ERL., 13(6). https://doi.org/10.1088/1748-9326/aac2f0
 
+Cazenave A, Henry O, Munier S, et al. Estimating ENSO Influence on the Global Mean Sea Level, 1993-2010. Marine Geodesy. 2012;35:82-97. doi:10.1080/01490419.2012.718209
+
+Hamlington, B. D., Cheon, S. H., Thompson, P. R., Merrifield, M. A., Nerem, R. S., Leben, R. R., and Kim, K.-Y. (2016), An ongoing shift in Pacific Ocean sea level, J. Geophys. Res. Oceans, 121, 5084– 5097, doi:10.1002/2016JC011815.
+
+Hamlington, B. D., Frederikse, T., Thompson, P. R., Willis, J. K., Nerem, R. S., & Fasullo, J. T. (2021). Past, present, and future Pacific sea-level change. Earth's Future, 8, e2020EF001839. https://doi.org/10.1029/2020EF001839
+
+Merrifield, M. A., and Maltrud, M. E. (2011), Regional sea level trends due to a Pacific trade wind intensification, Geophys. Res. Lett., 38, L21605, doi:10.1029/2011GL049576.
+
+WCRP Global Sea Level Budget Group: Global sea-level budget 1993–present, Earth Syst. Sci. Data, 10, 1551–1590, https://doi.org/10.5194/essd-10-1551-2018, 2018.
 
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
