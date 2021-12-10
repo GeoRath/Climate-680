@@ -91,6 +91,10 @@ Although my topic question was simple and already has a wealth of research behin
 
 Technically, I had to work through nan data creating issues in my data analysis as well as finding workarounds for computing around a large dataset like AVISO. I also furthered my competency with python but also found how to better address my own errors and problems with research and guides from different corners of the internet. In the future I would like to further explore other variables that impact sea surface height and work on making my plots more interesting to look at and find ways for them to provide even more context to the full story they can tell.
 
+## References and Relevant Articles
+
+
+
 ### Acknowledgements
 #### Timberlake - Executive Coding Assistant
 ![Ancient Beagle](/Climate-680/Timberlake.jpeg)
